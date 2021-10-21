@@ -1,3 +1,8 @@
+> **WARNING**: this repository is outdated and has moved to:
+>
+> * https://opendev.org/openstack/charm-cinder-netapp
+> * https://github.com/openstack/charm-cinder-netapp
+
 # Overview
 
 The cinder charm is the Openstack block storage (i.e: Volume) service, whereas the cinder-netapp charm works as a subordinate of cinder, implementing a backend based on NetApp.
